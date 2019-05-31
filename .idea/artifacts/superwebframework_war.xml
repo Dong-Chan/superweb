@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="superwebframework:war">
+    <output-path>$PROJECT_DIR$/superwebframework/target</output-path>
+    <root id="archive" name="superweb-framework-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="superwebframework:war exploded" />
+    </root>
+  </artifact>
+</component>
